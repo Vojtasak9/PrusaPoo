@@ -2,9 +2,8 @@ PrusaPoo is an alternative start g-code for your Prusa MK4.
 
 |
 
-The MK4 purges before every print. This purge line is actually pretty light, it only heights 0.1g. But the problem with this purge line is that it's hard to peel of, sometimes it's even painfull.
-Another downside is, that you have to peel of the purge line. 
+The MK4 purges before every print. This purge line is actually quite light, weighing only 0.1g. However, the issue with this purge line is that it can be hard to peel off, sometimes even painful. Another downside is that you have to manually remove the purge line.
 
-Thats where PrusaPoo comes in play. instead of purging a line, PrusaPoo purges a (you've guessed it) a poop. it also weights 0.1g. One of the big upsides is automatic ejection into a little bin on the side.
+That's where PrusaPoo comes into play. Instead of purging a line, PrusaPoo purges (you guessed it) a small "poop." It also weighs 0.1g. One of the major advantages is that it ejects automatically into a small bin on the side.
 
-PrusaPoo is (in it's current state) is only PLA on Smooth sheet
+PrusaPoo is, in its current state, compatible only with PLA on a smooth sheet.
