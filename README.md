@@ -12,4 +12,4 @@ PrusaPoo is, in its current state, compatible only with PLA and PETG.
 
 |
 
-The way you implement it is simple. Download "PrusaPoo.txt" and copy the text from it to your clipboard. Next, open Prusaslicer, click on "Printers," then go to "Custom G-code." Navigate to the "Start G-code" field, find the line "; Extrude purge line," delete that line and everything below it, and then paste the new G-code in place of the deleted section. Save your preset, and you're ready to go!
+The way you implement it is simple. Download "PrusaPoo.txt" and copy the text from it to your clipboard. Next, open Prusaslicer,![Snímek-obrazovky-2024-10-31-v-17 29 17](https://github.com/user-attachments/assets/61099ca3-dbbd-4b99-8088-3b0b68d742a8) click on "Printers," then go to "Custom G-code." Navigate to the "Start G-code" field, find the line "; Extrude purge line," delete that line and everything below it, and then paste the new G-code in place of the deleted section. Save your preset, and you're ready to go!
