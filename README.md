@@ -16,3 +16,7 @@ The way you implement it is simple. Download "PrusaPoo.txt" and copy the text fr
  Navigate to the "Start G-code" field,![Start_G-code](https://github.com/user-attachments/assets/0ef46199-b506-4f3c-a8fe-ea86eb06fc6b) find the line "; Extrude purge line," delete that line and everything below it,![Extrude_Purge_Line](https://github.com/user-attachments/assets/95e1246a-1b0a-4992-88dd-435c3a47393e) 
 and then paste the new G-code in place of the deleted section.
 ![New_G-code](https://github.com/user-attachments/assets/8cfe71b4-a9ab-4799-adb4-27e26bc1a587)Save your preset,![Save_Preset](https://github.com/user-attachments/assets/c8081aee-aa09-45fe-923b-1eb033cf7684) and you're ready to go!
+
+|
+
+If someone has any suggestions contact me via printables! @VOJTAsak_272820
