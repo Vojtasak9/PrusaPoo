@@ -12,4 +12,7 @@ PrusaPoo is, in its current state, compatible only with PLA and PETG.
 
 |
 
-The way you implement it is simple. Download "PrusaPoo.txt" and copy the text from it to your clipboard. Next, open Prusaslicer,![Snímek-obrazovky-2024-10-31-v-17 29 17](https://github.com/user-attachments/assets/61099ca3-dbbd-4b99-8088-3b0b68d742a8) click on "Printers," then go to "Custom G-code." Navigate to the "Start G-code" field, find the line "; Extrude purge line," delete that line and everything below it, and then paste the new G-code in place of the deleted section. Save your preset, and you're ready to go!
+The way you implement it is simple. Download "PrusaPoo.txt" and copy the text from it to your clipboard. Next, open Prusaslicer,[Prusaslicer](https://github.com/user-attachments/assets/61099ca3-dbbd-4b99-8088-3b0b68d742a8) click on "Printers,"[Printers](https://github.com/user-attachments/assets/a8d6c1f2-43c1-467b-aa4b-18a4404e5193)then go to "Custom G-code."[Custom G-code](https://github.com/user-attachments/assets/6fdb9857-8ab8-466b-ae26-7b9533c1b164)
+ Navigate to the "Start G-code" field,[Start_G-code](https://github.com/user-attachments/assets/95e1246a-1b0a-4992-88dd-435c3a47393e) find the line "; Extrude purge line," delete that line and everything below it, ![Extrude_Purge_Line](https://github.com/user-attachments/assets/b2d3e863-5f49-4865-9c4d-ff6d1e0685ba)
+and then paste the new G-code in place of the deleted section.!Nnew_G-code](https://github.com/user-attachments/assets/6a9ff5a4-2824-4b77-aca5-52863b5bfbe9) Save your preset,
+![Save_Preset](https://github.com/user-attachments/assets/c8081aee-aa09-45fe-923b-1eb033cf7684) and you're ready to go!
